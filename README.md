@@ -1,6 +1,6 @@
 "# bc-cert-assignments" 
 
-# uthor: Rajendra Maharjan #
+# Author: Rajendra Maharjan #
 
 
 Blockchain Developer Certification Assignments
